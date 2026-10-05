@@ -1,4 +1,4 @@
-"""
+so basically this project works on place to place it will measure the aqi level of air in differnet satates and in differnet countries ."""
 ================================================================================
 AQI TOOLKIT
 ================================================================================
